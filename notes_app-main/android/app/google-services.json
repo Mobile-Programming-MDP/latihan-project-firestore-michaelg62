@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "848539166243",
-    "project_id": "notes-d2a3a",
-    "storage_bucket": "notes-d2a3a.appspot.com"
+    "project_number": "313170900403",
+    "project_id": "firestore-7c145",
+    "storage_bucket": "firestore-7c145.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:848539166243:android:51ada6d9b70cbc473c3396",
+        "mobilesdk_app_id": "1:313170900403:android:f47a8c45d621a48d6247c6",
+        "android_client_info": {
+          "package_name": "com.example.flutterlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkfUQ5uCfZGRo40K8wArk5uEg_bs2s3ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313170900403:android:dcea77a55ae37c676247c6",
         "android_client_info": {
           "package_name": "com.example.notes"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD_XHI67JZapFYiyQC-GLFebcQ9JWkA0SE"
+          "current_key": "AIzaSyDkfUQ5uCfZGRo40K8wArk5uEg_bs2s3ug"
         }
       ],
       "services": {
